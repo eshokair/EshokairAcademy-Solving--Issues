@@ -7,8 +7,8 @@
 | :--- | :--- | :--- |
 | Issues-01 | [حل مشكلات الـ Import/Export](https://youtu.be/9U3me10EUhs?list=PLiWqBB1AHOGDWCIUjPN89pLW2Xqs9cgXz) | التعامل مع رسائل الخطأ الخاصة بـ Locked Users |
 | Issues-02 | [تشخيص توقف ORDS](https://youtu.be/C0oai1co3bk?list=PLiWqBB1AHOGDWCIUjPN89pLW2Xqs9cgXz) | خطوات الاستكشاف والحل عند انقطاع الاتصال بقاعدة البيانات |
-| تحميل 1 | [Download - ملف الشرح 1](Issues-01-01_Solving_Apex_Issues.pdf) | تحميل ملف الشرح الخاص بالمشكلة الأولى |
-| تحميل 2 | [Download - ملف الشرح 2](Issues-01-02_Solving_Apex_Issues.pdf) | تحميل ملف الشرح الخاص بالمشكلة الثانية[cite: 1] |
+| تحميل 1 | [Download - ملف الشرح 1](https://github.com/eshokair/EshokairAcademy-Solving--Issues/blob/main/Issues-01-01%20Solving%20Apex%20Issues.pdf) | تحميل ملف الشرح الخاص بالمشكلة الأولى |
+| تحميل 2 | [Download - ملف الشرح 2](https://github.com/eshokair/EshokairAcademy-Solving--Issues/blob/main/Issues-01-02%20Solving%20Apex%20Issues.pdf) | تحميل ملف الشرح الخاص بالمشكلة الثانية[cite: 1] |
 
 💡 **نصيحة للمطورين:** إذا واجهت مشكلة تقنية متكررة غير مذكورة هنا، يرجى طرحها في تعليقات القناة لنقوم بتحليلها وتوثيق حلها في هذا المستودع.
 
