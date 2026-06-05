@@ -8,6 +8,7 @@
 | :--- | :--- | :--- |
 | Issues-01 | [حل مشكلات الـ Import/Export](https://youtu.be/9U3me10EUhs?list=PLiWqBB1AHOGDWCIUjPN89pLW2Xqs9cgXz) | التعامل مع رسائل الخطأ الخاصة بـ Locked Users[cite: 1] |
 | Issues-02 | [تشخيص توقف ORDS](https://youtu.be/C0oai1co3bk?list=PLiWqBB1AHOGDWCIUjPN89pLW2Xqs9cgXz) | خطوات الاستكشاف والحل عند انقطاع الاتصال بقاعدة البيانات[cite: 1] |
+* [تحميل ملف الشرح - PDF](ضع_الرابط_هنا_الذي_قمت_بنسخه)
 
 ---
 💡 **نصيحة للمطورين:** إذا واجهت مشكلة تقنية متكررة غير مذكورة هنا، يرجى طرحها في تعليقات القناة لنقوم بتحليلها وتوثيق حلها في هذا المستودع.
